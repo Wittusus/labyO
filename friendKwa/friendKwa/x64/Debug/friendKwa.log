@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendKwa\friendKwa\main.cpp(56,14): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendKwa\friendKwa\main.cpp(70,17): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendKwa\friendKwa\main.cpp(125,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendKwa\friendKwa\main.cpp(77): warning C4715: "okrag::rozlacznosc”: niewszystkie ścieżki kodu zwracają wartość
+  friendKwa.vcxproj -> C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendKwa\x64\Debug\friendKwa.exe
