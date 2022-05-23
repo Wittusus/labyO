@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendshipismagic\friendshipismagic\main.cpp(36,14): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendshipismagic\friendshipismagic\main.cpp(56,13): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendshipismagic\friendshipismagic\main.cpp(101,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  friendshipismagic.vcxproj -> C:\Users\sierz\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\repo\friendshipismagic\x64\Debug\friendshipismagic.exe
